@@ -70,9 +70,7 @@
 ---
 
 ## 📊 STATS AT A GLANCE
-- 🧩 **DSA Mastery:** 200+ problems solved across CodeChef and Codolio.
-- 🎓 **Academic Excellence:** 8.4 CGPA @ Bennett University.
-- 📜 **Certified Expert:** Microsoft Certified Azure Fundamentals, SQL Specialist.
+- 📊 **Project Count:** 5+ Professional & Personal Projects.
 
 ---
 

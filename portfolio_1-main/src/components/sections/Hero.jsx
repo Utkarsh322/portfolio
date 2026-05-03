@@ -59,7 +59,7 @@ export default function Hero() {
             <div className="w-px bg-border"></div>
             <div className="text-center"><div className="text-cyan font-bebas text-3xl"><AnimatedCounter value={4}/></div><div className="text-gray font-rajdhani text-sm">Certs</div></div>
             <div className="w-px bg-border"></div>
-            <div className="text-center"><div className="text-cyan font-bebas text-3xl"><AnimatedCounter value={3}/>+</div><div className="text-gray font-rajdhani text-sm">Projects</div></div>
+            <div className="text-center"><div className="text-cyan font-bebas text-3xl"><AnimatedCounter value={5}/>+</div><div className="text-gray font-rajdhani text-sm">Projects</div></div>
           </motion.div>
         </div>
 

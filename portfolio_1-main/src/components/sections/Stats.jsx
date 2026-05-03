@@ -61,7 +61,7 @@ export default function Stats() {
             {[
               { v: 200, l: 'Problems Solved', p: '+' },
               { v: 8.4, l: 'Current CGPA', f: true },
-              { v: 3, l: 'Projects Built', p: '+' },
+              { v: 5, l: 'Projects Built', p: '+' },
               { v: 4, l: 'Certifications' }
             ].map((s, i) => (
               <motion.div
